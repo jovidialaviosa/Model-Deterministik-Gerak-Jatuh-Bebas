@@ -1,0 +1,1 @@
+# Model-Deterministik-Gerak-Jatuh-Bebas
